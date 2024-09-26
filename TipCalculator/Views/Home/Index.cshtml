@@ -1,0 +1,12 @@
+﻿@model TipCalculatorModel
+{
+    ViewBag.Title = "Tip Calculator";
+}
+<h1>Tip Calculator</h1>
+<form asp-action="Index" method="post">
+    <div>
+        <label asp-for="costofmeal">Cost of meal: </label>
+        <input asp-for="costofmeal" />
+    </div>
+</form>
+
