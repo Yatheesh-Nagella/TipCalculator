@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yathe\\Downloads\\Fall25\\CMSC 5423\\TipCalculator\\TipCalculator\\TipCalculator.csproj": {}
+    "c:\\Users\\yathe\\Downloads\\Fall25\\CMSC 5423\\TipCalculator\\TipCalculator\\TipCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yathe\\Downloads\\Fall25\\CMSC 5423\\TipCalculator\\TipCalculator\\TipCalculator.csproj": {
+    "c:\\Users\\yathe\\Downloads\\Fall25\\CMSC 5423\\TipCalculator\\TipCalculator\\TipCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yathe\\Downloads\\Fall25\\CMSC 5423\\TipCalculator\\TipCalculator\\TipCalculator.csproj",
+        "projectUniqueName": "c:\\Users\\yathe\\Downloads\\Fall25\\CMSC 5423\\TipCalculator\\TipCalculator\\TipCalculator.csproj",
         "projectName": "TipCalculator",
-        "projectPath": "C:\\Users\\yathe\\Downloads\\Fall25\\CMSC 5423\\TipCalculator\\TipCalculator\\TipCalculator.csproj",
+        "projectPath": "c:\\Users\\yathe\\Downloads\\Fall25\\CMSC 5423\\TipCalculator\\TipCalculator\\TipCalculator.csproj",
         "packagesPath": "C:\\Users\\yathe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yathe\\Downloads\\Fall25\\CMSC 5423\\TipCalculator\\TipCalculator\\obj\\",
+        "outputPath": "c:\\Users\\yathe\\Downloads\\Fall25\\CMSC 5423\\TipCalculator\\TipCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yathe\\AppData\\Roaming\\NuGet\\NuGet.Config"
